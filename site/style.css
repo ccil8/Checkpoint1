@@ -1,0 +1,27 @@
+body{
+  width: 100%;
+}
+
+nav{
+  background-color: black;
+}
+
+.lien{
+  color: blue;
+}
+
+
+header{
+  background: url(img/photo.jpg);
+  margin-top: 15px;
+  height: 200px;
+  width:100%;
+  color: black;
+  text-align: center;
+  padding-top: 50px;
+}
+
+footer{
+  background-color: grey;
+  padding: 20px;
+}
